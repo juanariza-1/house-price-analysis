@@ -1,5 +1,7 @@
 # Melbourne housing: segmentation and price prediction
 
+**[View the rendered report online](https://juanariza-1.github.io/house-price-analysis/)**
+
 **Author:** Juan Pablo Ariza Gallo  
 **Course:** Machine Learning — Individual Final Project  
 **Original project date:** March 2026
