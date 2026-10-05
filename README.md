@@ -1,6 +1,12 @@
 # Melbourne housing: segmentation and price prediction
 
-**[View the rendered report online](https://juanariza-1.github.io/house-price-analysis/)**
+[![View the full report](assets/view-report.svg)](https://juanariza-1.github.io/house-price-analysis/)
+
+<a href="https://juanariza-1.github.io/house-price-analysis/">
+  <img src="assets/report-preview.png" alt="Market segmentation in principal-component space, from the saved notebook." width="760">
+</a>
+
+*Click the button or preview to open the complete report with its saved figures and results.*
 
 **Author:** Juan Pablo Ariza Gallo  
 **Course:** Machine Learning — Individual Final Project  
